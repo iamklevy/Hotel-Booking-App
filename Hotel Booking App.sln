@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel Booking App", "Hotel Booking App.csproj", "{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		x|Any CPU = x|Any CPU
+		x|x64 = x|x64
+		x|x86 = x|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.Debug|x64.ActiveCfg = Debug|x64
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.Debug|x64.Build.0 = Debug|x64
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.Debug|x86.ActiveCfg = Debug|x86
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.Debug|x86.Build.0 = Debug|x86
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.Release|x64.ActiveCfg = Release|x64
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.Release|x64.Build.0 = Release|x64
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.Release|x86.ActiveCfg = Release|x86
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.Release|x86.Build.0 = Release|x86
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.x|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.x|Any CPU.Build.0 = Debug|Any CPU
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.x|x64.ActiveCfg = Debug|x64
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.x|x64.Build.0 = Debug|x64
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.x|x86.ActiveCfg = Debug|x86
+		{1BB0A1A2-49FA-4120-B053-7E1EB19E618E}.x|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8055990-5629-4D53-8062-C5285E9EB95E}
+	EndGlobalSection
+EndGlobal
