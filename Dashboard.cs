@@ -88,6 +88,7 @@ namespace oraclee_sql_app
                 comboBox1.Items.Add(comboBox1.Text);
                 MessageBox.Show("new guest has been added successfully");
             }
+            comboBox1.Items.Add(booking_id_counter);
             booking_id_counter++;
 
         }
@@ -133,6 +134,7 @@ namespace oraclee_sql_app
                 textBox7.Text = ""; 
                 textBox8.Text = "";
             }
+     
 
         }
 

@@ -16,8 +16,7 @@ namespace oraclee_sql_app
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Dashboard());
-            Application.Run(new Dashboard2());
+            Application.Run(new Main_Form());
         }
     }
 }
